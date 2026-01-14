@@ -57,5 +57,6 @@ This repository contains the implementation of a Decision Tree Classifier to pre
 1. Open the .ipynb in Colab/GitHub.
 2. Run all cells (no external data required).
 ### Requirements:
-Install dependencies using:
+1. Clone the Repository : `https://github.com/keerthipriyarayapati/SCT_DS_Task3.git`
+2. Install dependencies using:
 ```pip install -r requirements.txt```
